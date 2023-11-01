@@ -1,0 +1,17 @@
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\bin\Debug\net6.0\PizzaOrderingSystem.Utils.deps.json
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\bin\Debug\net6.0\PizzaOrderingSystem.Utils.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\bin\Debug\net6.0\PizzaOrderingSystem.Utils.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\PizzaOrderingSystem.Utils.csproj.AssemblyReference.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\PizzaOrderingSystem.Utils.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\PizzaOrderingSystem.Utils.AssemblyInfoInputs.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\PizzaOrderingSystem.Utils.AssemblyInfo.cs
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\PizzaOrderingSystem.Utils.csproj.CoreCompileInputs.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\PizzaOrderingSystem.Utils.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\refint\PizzaOrderingSystem.Utils.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\PizzaOrderingSystem.Utils.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\ref\PizzaOrderingSystem.Utils.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\bin\Debug\net6.0\PizzaOrderingSystem.DataAccess.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\bin\Debug\net6.0\PizzaOrderingSystem.DTO.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\bin\Debug\net6.0\PizzaOrderingSystem.DTO.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\bin\Debug\net6.0\PizzaOrderingSystem.DataAccess.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\obj\Debug\net6.0\PizzaOrderingSystem.Utils.csproj.CopyComplete

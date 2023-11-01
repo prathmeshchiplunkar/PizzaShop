@@ -1,0 +1,36 @@
+2023-10-26 19:06:24.6250|DEBUG|Program|Initializing Project : Main method
+2023-10-26 19:18:26.7914|DEBUG|Program|Initializing Project : Main method
+2023-10-26 19:18:41.8983|INFO|PizzaOrderingSystem.Controllers.WeatherForecastController|Information
+2023-10-26 19:18:41.8983|ERROR|PizzaOrderingSystem.Controllers.WeatherForecastController|Error
+2023-10-26 19:19:07.5016|ERROR|PizzaOrderingSystem.Utils.Exceptions.GlobalErrorHandlingMiddleware|{"error":"The method or operation is not implemented.","stackTrace":"   at PizzaOrderingSystem.Controllers.WeatherForecastController.Get() in F:\\Projects\\.Net\\PizzaOrderingSystem\\PizzaOrderingSystem\\Controllers\\WeatherForecastController.cs:line 32\r\n   at lambda_method2(Closure , Object , Object[] )\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeFilterPipelineAsync\u003Eg__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\r\n   at Microsoft.AspNetCore.Routing.EndpointMiddleware.\u003CInvoke\u003Eg__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)\r\n   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)\r\n   at PizzaOrderingSystem.Utils.Exceptions.GlobalErrorHandlingMiddleware.Invoke(HttpContext context) in F:\\Projects\\.Net\\PizzaOrderingSystem\\PizzaOrderingSystem.Utils\\Exceptions\\GlobalErrorHandlingMiddleware.cs:line 28"}
+2023-10-26 20:18:33.3690|DEBUG|Program|Initializing Project : Main method
+2023-10-26 20:18:46.6722|INFO|PizzaOrderingSystem.Controllers.WeatherForecastController|Information
+2023-10-26 20:18:46.6722|ERROR|PizzaOrderingSystem.Controllers.WeatherForecastController|Error
+2023-10-26 20:18:51.7974|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.|System.InvalidCastException: Unable to cast object of type 'System.NotImplementedException' to type 'PizzaOrderingSystem.Utils.Exceptions.BasePizzaSystemException'.
+   at PizzaOrderingSystem.Utils.Exceptions.GlobalErrorHandlingMiddleware.HandleExceptionAsync(HttpContext context, Exception ex) in F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\Exceptions\GlobalErrorHandlingMiddleware.cs:line 37
+   at PizzaOrderingSystem.Utils.Exceptions.GlobalErrorHandlingMiddleware.Invoke(HttpContext context) in F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.Utils\Exceptions\GlobalErrorHandlingMiddleware.cs:line 32
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-10-26 20:19:08.5101|DEBUG|Program|Initializing Project : Main method
+2023-10-26 20:19:20.0297|INFO|PizzaOrderingSystem.Controllers.WeatherForecastController|Information
+2023-10-26 20:19:20.0328|ERROR|PizzaOrderingSystem.Controllers.WeatherForecastController|Error
+2023-10-26 20:38:54.7831|DEBUG|Program|Initializing Project : Main method
+2023-10-26 20:39:05.2049|INFO|PizzaOrderingSystem.Controllers.WeatherForecastController|Information
+2023-10-26 20:39:05.2049|ERROR|PizzaOrderingSystem.Controllers.WeatherForecastController|Error
+2023-10-26 20:39:37.4655|ERROR|PizzaOrderingSystem.Utils.Exceptions.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : The method or operation is not implemented.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-26 20:40:34.1517|INFO|PizzaOrderingSystem.Controllers.WeatherForecastController|Information
+2023-10-26 20:40:34.1517|ERROR|PizzaOrderingSystem.Controllers.WeatherForecastController|Error
+2023-10-26 20:41:56.8843|DEBUG|Program|Initializing Project : Main method
+2023-10-26 20:42:12.5963|INFO|PizzaOrderingSystem.Controllers.WeatherForecastController|Information
+2023-10-26 20:42:12.5963|ERROR|PizzaOrderingSystem.Controllers.WeatherForecastController|Error
+2023-10-26 20:47:11.6768|DEBUG|Program|Initializing Project : Main method
+2023-10-26 22:32:28.2024|DEBUG|Program|Initializing Project : Main method
+2023-10-26 22:34:49.7699|DEBUG|Program|Initializing Project : Main method
+2023-10-26 22:36:39.8803|DEBUG|Program|Initializing Project : Main method
+2023-10-26 22:39:23.9772|DEBUG|Program|Initializing Project : Main method
+2023-10-26 23:41:03.7834|DEBUG|Program|Initializing Project : Main method
+2023-10-26 23:41:23.1669|DEBUG|Program|Initializing Project : Main method
+2023-10-26 23:52:12.6577|DEBUG|Program|Initializing Project : Main method
+2023-10-26 23:53:09.4078|ERROR|PizzaOrderingSystem.Utils.Exceptions.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : The instance of entity type \u0027User\u0027 cannot be tracked because another instance with the same key value for {\u0027Id\u0027} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using \u0027DbContextOptionsBuilder.EnableSensitiveDataLogging\u0027 to see the conflicting key values.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-26 23:53:33.5927|DEBUG|Program|Initializing Project : Main method

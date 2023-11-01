@@ -1,0 +1,18 @@
+2023-10-29 00:00:53.4488|DEBUG|Program|Initializing Project : Main method
+2023-10-29 00:13:37.5834|DEBUG|Program|Initializing Project : Main method
+2023-10-29 00:14:26.7689|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-29 00:18:49.6910|DEBUG|Program|Initializing Project : Main method
+2023-10-29 00:19:21.8618|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-29 00:21:15.0121|DEBUG|Program|Initializing Project : Main method
+2023-10-29 00:21:18.5230|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.|Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET WeatherForecast" for actions - PizzaOrderingSystem.Controllers.WeatherForecastController.GetWeatherData (PizzaOrderingSystem),PizzaOrderingSystem.Controllers.WeatherForecastController.GetWeatherCondition (PizzaOrderingSystem). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-10-29 00:23:24.0547|DEBUG|Program|Initializing Project : Main method
+2023-10-29 00:23:50.3836|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-29 00:30:58.6992|DEBUG|Program|Initializing Project : Main method
+2023-10-29 00:31:16.9851|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-29 16:38:20.8505|DEBUG|Program|Initializing Project : Main method

@@ -1,0 +1,236 @@
+2023-10-28 09:15:05.0203|DEBUG|Program|Initializing Project : Main method
+2023-10-28 09:19:38.6355|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : JWT Token validation fail.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 09:24:12.4383|DEBUG|Program|Initializing Project : Main method
+2023-10-28 09:24:40.6570|DEBUG|Program|Initializing Project : Main method
+2023-10-28 09:37:12.6883|DEBUG|Program|Initializing Project : Main method
+2023-10-28 09:39:37.5898|DEBUG|Program|Initializing Project : Main method
+2023-10-28 09:40:59.8535|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'PizzaOrderingSystem.DataAccess.Data.PizzaDbContext'.
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)|System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-10-28 09:40:59.9638|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : An item with the same key has already been added. Key: 1","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 09:41:07.5269|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'PizzaOrderingSystem.DataAccess.Data.PizzaDbContext'.
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)|System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-10-28 09:41:07.5524|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : An item with the same key has already been added. Key: 1","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 09:42:19.9204|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'PizzaOrderingSystem.DataAccess.Data.PizzaDbContext'.
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)|System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-10-28 09:42:25.8525|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : An item with the same key has already been added. Key: 1","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 09:43:03.9708|DEBUG|Program|Initializing Project : Main method
+2023-10-28 09:43:40.8533|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'PizzaOrderingSystem.DataAccess.Data.PizzaDbContext'.
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)|System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-10-28 09:43:40.9175|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : An item with the same key has already been added. Key: 1","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 09:50:21.3806|DEBUG|Program|Initializing Project : Main method
+2023-10-28 09:51:16.8539|DEBUG|Program|Initializing Project : Main method
+2023-10-28 09:52:28.8058|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for userId - 11 , userName - 
+2023-10-28 10:36:07.1022|DEBUG|Program|Initializing Project : Main method
+2023-10-28 10:36:26.2587|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for userId - 11 , userName - 
+2023-10-28 10:36:46.0947|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : No service for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 has been registered.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 10:36:48.0111|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : No service for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 has been registered.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 10:37:05.4059|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : No service for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 has been registered.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 10:37:06.4439|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : No service for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 has been registered.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 10:39:29.0748|DEBUG|Program|Initializing Project : Main method
+2023-10-28 10:39:29.6358|ERROR|Program|Exception occured in .net COre Lifecycle|System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter Lifetime: Scoped ImplementationType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter': Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+2023-10-28 10:44:20.4622|DEBUG|Program|Initializing Project : Main method
+2023-10-28 10:44:32.0869|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : No service for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 has been registered.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 10:49:52.3685|DEBUG|Program|Initializing Project : Main method
+2023-10-28 10:49:52.9831|ERROR|Program|Exception occured in .net COre Lifecycle|System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter Lifetime: Scoped ImplementationType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter': Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+2023-10-28 10:56:24.5025|DEBUG|Program|Initializing Project : Main method
+2023-10-28 10:56:56.8623|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for userId - 11 , userName - 
+2023-10-28 10:57:09.3866|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : Unable to cast object of type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 to type \u0027Microsoft.AspNetCore.Mvc.Filters.IFilterMetadata\u0027.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 11:12:44.0043|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:13:16.1618|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:14:46.2479|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : Unable to cast object of type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 to type \u0027Microsoft.AspNetCore.Mvc.Filters.IFilterMetadata\u0027.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 11:20:31.7261|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:20:43.0309|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : Unable to cast object of type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 to type \u0027Microsoft.AspNetCore.Mvc.Filters.IFilterMetadata\u0027.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 11:22:41.4297|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:23:25.8748|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:25:38.7461|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:35:28.8761|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:37:59.6504|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:38:29.0680|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:38:48.1771|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:39:26.4846|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:39:53.1152|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:41:48.7107|DEBUG|Program|Initializing Project : Main method
+2023-10-28 11:42:32.2588|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : JWT Token validation fail.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 11:42:59.1702|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for userId - 11 , userName - 
+2023-10-28 19:52:19.6880|DEBUG|Program|Initializing Project : Main method
+2023-10-28 20:08:00.9145|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - test
+2023-10-28 20:08:56.7170|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"User not registerd : UserName - test","errorType":1,"statusCode":404,"errorLevelType":1,"stackTrace":"   at PizzaOrderingSystem.Utils.Jwt.JwtUtils.GenerateToken(String userName, String password) in F:\\Projects\\.Net\\PizzaOrderingSystem\\PizzaOrderingSystem.Utils\\Jwt\\JwtUtils.cs:line 61\r\n   at PizzaOrderingSystem.Controllers.SecurityController.GenerateToken(String userName, String password) in F:\\Projects\\.Net\\PizzaOrderingSystem\\PizzaOrderingSystem\\Controllers\\SecurityController.cs:line 33\r\n   at lambda_method2(Closure , Object , Object[] )\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeFilterPipelineAsync\u003Eg__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\r\n   at Microsoft.AspNetCore.Routing.EndpointMiddleware.\u003CInvoke\u003Eg__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)\r\n   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)\r\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\r\n   at PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware.Invoke(HttpContext context) in F:\\Projects\\.Net\\PizzaOrderingSystem\\PizzaOrderingSystem.Utils\\Middlewares\\GlobalErrorHandlingMiddleware.cs:line 27"}
+2023-10-28 20:10:25.1287|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 20:11:52.6707|DEBUG|Program|Initializing Project : Main method
+2023-10-28 20:12:26.9851|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 20:16:10.5994|DEBUG|Program|Initializing Project : Main method
+2023-10-28 20:16:53.8221|DEBUG|Program|Initializing Project : Main method
+2023-10-28 20:57:51.9238|DEBUG|Program|Initializing Project : Main method
+2023-10-28 20:57:52.9095|ERROR|Program|Exception occured in .net COre Lifecycle|System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter Lifetime: Transient ImplementationType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter': Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+2023-10-28 20:58:50.8078|DEBUG|Program|Initializing Project : Main method
+2023-10-28 20:58:51.4209|ERROR|Program|Exception occured in .net COre Lifecycle|System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter Lifetime: Transient ImplementationType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter': Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+2023-10-28 21:00:05.7397|DEBUG|Program|Initializing Project : Main method
+2023-10-28 21:00:23.0117|DEBUG|Program|Initializing Project : Main method
+2023-10-28 21:00:50.5859|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 21:53:11.6924|DEBUG|Program|Initializing Project : Main method
+2023-10-28 21:53:46.6812|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 21:54:17.3989|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : A suitable constructor for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 could not be located. Ensure the type is concrete and all parameters of a public constructor are either registered as services or passed as arguments. Also ensure no extraneous arguments are provided.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 21:55:14.5690|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : A suitable constructor for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 could not be located. Ensure the type is concrete and all parameters of a public constructor are either registered as services or passed as arguments. Also ensure no extraneous arguments are provided.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 21:55:26.4845|DEBUG|Program|Initializing Project : Main method
+2023-10-28 21:56:31.1495|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : JWT Token validation fail.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 21:56:55.2975|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 21:57:36.3537|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : JWT Token validation fail.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 21:58:28.3438|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : JWT Token validation fail.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 22:40:38.4530|DEBUG|Program|Initializing Project : Main method
+2023-10-28 22:41:06.5476|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 22:43:28.0781|DEBUG|Program|Initializing Project : Main method
+2023-10-28 22:43:56.3315|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 22:54:07.0782|DEBUG|Program|Initializing Project : Main method
+2023-10-28 22:54:40.4718|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 23:08:45.5770|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:09:36.4209|INFO|PizzaOrderingSystem.Utils.Jwt.JwtUtils|Generating token for user - admin
+2023-10-28 23:15:33.4716|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:16:06.9742|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:25:35.5103|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:25:36.2635|ERROR|Program|Exception occured in .net COre Lifecycle|System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter Lifetime: Transient ImplementationType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter': Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+2023-10-28 23:26:22.5706|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:26:23.6322|ERROR|Program|Exception occured in .net COre Lifecycle|System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter Lifetime: Transient ImplementationType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter': Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+2023-10-28 23:26:59.6458|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:29:00.6209|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:29:14.1756|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : A suitable constructor for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 could not be located. Ensure the type is concrete and all parameters of a public constructor are either registered as services or passed as arguments. Also ensure no extraneous arguments are provided.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 23:29:25.8965|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : A suitable constructor for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 could not be located. Ensure the type is concrete and all parameters of a public constructor are either registered as services or passed as arguments. Also ensure no extraneous arguments are provided.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 23:34:16.8450|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:34:17.5531|ERROR|Program|Exception occured in .net COre Lifecycle|System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter Lifetime: Transient ImplementationType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter': Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+2023-10-28 23:35:36.7168|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:35:37.6397|ERROR|Program|Exception occured in .net COre Lifecycle|System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter Lifetime: Transient ImplementationType: PizzaOrderingSystem.Utils.Filters.JWTActionFilter': Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'System.String' while attempting to activate 'PizzaOrderingSystem.Utils.Filters.JWTActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+2023-10-28 23:38:08.2755|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:38:30.8144|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : A suitable constructor for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 could not be located. Ensure the type is concrete and all parameters of a public constructor are either registered as services or passed as arguments. Also ensure no extraneous arguments are provided.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 23:41:52.6478|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:42:03.0135|ERROR|PizzaOrderingSystem.Utils.Middlewares.GlobalErrorHandlingMiddleware|{"error":"Unhandelled Error : A suitable constructor for type \u0027PizzaOrderingSystem.Utils.Filters.JWTActionFilter\u0027 could not be located. Ensure the type is concrete and all parameters of a public constructor are either registered as services or passed as arguments. Also ensure no extraneous arguments are provided.","errorType":0,"statusCode":404,"errorLevelType":1,"stackTrace":null}
+2023-10-28 23:45:53.2527|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:51:28.5270|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:53:12.2968|DEBUG|Program|Initializing Project : Main method
+2023-10-28 23:54:07.8423|DEBUG|Program|Initializing Project : Main method

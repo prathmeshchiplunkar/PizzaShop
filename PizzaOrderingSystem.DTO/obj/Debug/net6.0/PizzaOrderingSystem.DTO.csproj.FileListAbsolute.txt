@@ -1,0 +1,15 @@
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\bin\Debug\net6.0\PizzaOrderingSystem.DTO.deps.json
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\bin\Debug\net6.0\PizzaOrderingSystem.DTO.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\bin\Debug\net6.0\PizzaOrderingSystem.DTO.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\bin\Debug\net6.0\PizzaOrderingSystem.DataAccess.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\bin\Debug\net6.0\PizzaOrderingSystem.DataAccess.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\PizzaOrderingSystem.DTO.csproj.AssemblyReference.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\PizzaOrderingSystem.DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\PizzaOrderingSystem.DTO.AssemblyInfoInputs.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\PizzaOrderingSystem.DTO.AssemblyInfo.cs
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\PizzaOrderingSystem.DTO.csproj.CoreCompileInputs.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\PizzaOrderingSystem.DTO.csproj.CopyComplete
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\PizzaOrderingSystem.DTO.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\refint\PizzaOrderingSystem.DTO.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\PizzaOrderingSystem.DTO.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DTO\obj\Debug\net6.0\ref\PizzaOrderingSystem.DTO.dll

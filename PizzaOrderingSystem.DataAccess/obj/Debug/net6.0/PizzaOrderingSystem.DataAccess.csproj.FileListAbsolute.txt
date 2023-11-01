@@ -1,0 +1,14 @@
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\bin\Debug\net6.0\PizzaOrderingSystem.DataAccess.deps.json
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\bin\Debug\net6.0\PizzaOrderingSystem.DataAccess.runtimeconfig.json
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\bin\Debug\net6.0\PizzaOrderingSystem.DataAccess.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\bin\Debug\net6.0\PizzaOrderingSystem.DataAccess.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\PizzaOrderingSystem.DataAccess.csproj.AssemblyReference.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\PizzaOrderingSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\PizzaOrderingSystem.DataAccess.AssemblyInfoInputs.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\PizzaOrderingSystem.DataAccess.AssemblyInfo.cs
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\PizzaOrderingSystem.DataAccess.csproj.CoreCompileInputs.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\PizzaOrderingSystem.DataAccess.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\refint\PizzaOrderingSystem.DataAccess.dll
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\PizzaOrderingSystem.DataAccess.pdb
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\PizzaOrderingSystem.DataAccess.genruntimeconfig.cache
+F:\Projects\.Net\PizzaOrderingSystem\PizzaOrderingSystem.DataAccess\obj\Debug\net6.0\ref\PizzaOrderingSystem.DataAccess.dll
